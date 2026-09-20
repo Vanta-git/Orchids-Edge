@@ -1,0 +1,62 @@
+{
+  "maxPartBytes": 4500000,
+  "files": {
+    "WebBuild.wasm": {
+      "sourceBytes": 19996272,
+      "parts": [
+        {
+          "name": "WebBuild.wasm.part-001",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.wasm.part-002",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.wasm.part-003",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.wasm.part-004",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.wasm.part-005",
+          "bytes": 1996272
+        }
+      ]
+    },
+    "WebBuild.data": {
+      "sourceBytes": 24336459,
+      "parts": [
+        {
+          "name": "WebBuild.data.part-001",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.data.part-002",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.data.part-003",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.data.part-004",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.data.part-005",
+          "bytes": 4500000
+        },
+        {
+          "name": "WebBuild.data.part-006",
+          "bytes": 1836459
+        }
+      ]
+    }
+  },
+  "loaderBytes": 15331,
+  "frameworkBytes": 507957,
+  "dataHeader": "UnityWebData1.0"
+}
